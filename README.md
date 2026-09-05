@@ -8,4 +8,5 @@ Operational Takeaway: Tying analytics to my actual experience in E-commerce oper
 - **Groceries** Requires specialized temperature-controlled storage and careful expiration tracking, driving up overhead inventory costs.
 - **Toys** Efficient on storage space, but restricted by lower price ceilings compared to heavy goods.
 - **Electronics** Strong margin potential, but accompanied by complex quality control, rigorous testing requirements, and higher return rates.
+
 Summary: This repository demonstrates how to bridge the gap between SQL queries and frontline e-commerce operations. By evaluating SKU profitability alongside fulfillment bottlenecks, businesses can optimize merchandising decisions that protect margins. 
